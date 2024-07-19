@@ -52,3 +52,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+
+![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=transparent)
