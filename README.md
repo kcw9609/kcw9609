@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header)
 ## Hi there 👋
-
+<div align="center">
 <!--
 **kcw9609/kcw9609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,9 +54,16 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
+<div align="center">
 
-![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcw9609)
+![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcw9609&layout=donut-vertical)
+
+</div>
+</div>
+
+## 🌠Projects!
 
 <div align="center">
   <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
@@ -101,9 +108,9 @@ Here are some ideas to get you started:
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
 | [TOgether](https://github.com/UMC-5th-TOgether/Together_BE) | UMC 5th 프로젝트 |<img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>|
-| [ReviewMate](https://github.com/yuchaemin2/ReviewMate) | 토이 프로젝트 - 영화 리뷰 플랫폼 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/>|
-| [지구더구](https://github.com/EarthDuk11/Frontend) | 2023 덕성여자대학교 데이터톤 수상작 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> |
-| [덕심이](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-19) | 2023 덕성여자대학교 해커톤 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> |
+| [ReviewMate](https://github.com/yuchaemin2/ReviewMate) | 토이 프로젝트 - 영화 리뷰 플랫폼 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> <img width="30" height="30" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>|
+| [지구더구](https://github.com/EarthDuk11/Frontend) | 2023 덕성여자대학교 데이터톤 🥉 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> <img width="30" height="30" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>|
+| [덕심이](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-19) | 2023 덕성여자대학교 해커톤 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> <img width="30" height="30" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>|
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=footer)
