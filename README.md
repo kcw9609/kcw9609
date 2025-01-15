@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=header)
 ## Hi there 👋
 
 <!--
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
-| Nalance | UMC 7th 프로젝트 | 데이터3 |
+| [Nalance](https://github.com/NALANCE/NALANCE-BE) | UMC 7th 프로젝트 | 데이터3 |
 | Album30 | 앨범 중고 거래 사이트 | 데이터3 |
 
 2024
@@ -74,9 +75,9 @@ Here are some ideas to get you started:
 2023
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
-| TOgether | UMC 5th 프로젝트 | 데이터3 |
+| TOgether | UMC 5th 프로젝트 ||
 | ReviewMate | 토이 프로젝트 - 영화 리뷰 플랫폼 | 데이터3 |
 | 지구더구 | 2023 덕성여자대학교 데이터톤 수상작 | 데이터3 |
 | 덕심이 | 2023 덕성여자대학교 해커톤 | 데이터3 |
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=footer)
