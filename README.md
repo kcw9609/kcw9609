@@ -56,3 +56,27 @@ Here are some ideas to get you started:
 
 ![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcw9609)
+
+2025
+
+| NAME | DESCRIPT | STACK |
+|-----|-----|-----|
+| Nalance | UMC 7th 프로젝트 | 데이터3 |
+| Album30 | 앨범 중고 거래 사이트 | 데이터3 |
+
+2024
+| NAME | DESCRIPT | STACK |
+|-----|-----|-----|
+| 마음말 | 2024 프로보노ICT 공모전 | 데이터3 |
+| MovieIn | UMC 7th 미니 프로젝트 | 데이터3 |
+| 비밀산타 | Ne(o)rdinary 7th 해커톤 | 데이터3 |
+
+2023
+| NAME | DESCRIPT | STACK |
+|-----|-----|-----|
+| TOgether | UMC 5th 프로젝트 | 데이터3 |
+| ReviewMate | 토이 프로젝트 - 영화 리뷰 플랫폼 | 데이터3 |
+| 지구더구 | 2023 덕성여자대학교 데이터톤 수상작 | 데이터3 |
+| 덕심이 | 2023 덕성여자대학교 해커톤 | 데이터3 |
+
+
