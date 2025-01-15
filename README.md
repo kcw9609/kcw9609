@@ -58,26 +58,52 @@ Here are some ideas to get you started:
 ![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcw9609)
 
-2025
+<div align="center">
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/0.png" alt="0"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/5.png" alt="5"/>
+</div>
+
+<div align="center">
 
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
-| [Nalance](https://github.com/NALANCE/NALANCE-BE) | UMC 7th 프로젝트 | 데이터3 |
-| Album30 | 앨범 중고 거래 사이트 | 데이터3 |
+| [Nalance](https://github.com/NALANCE/NALANCE-BE) | UMC 7th 프로젝트 | <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>|
+| [Album30](https://github.com/orgs/Album30/repositories) | 앨범 중고 거래 사이트 | <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>|
+</div>
 
-2024
+<div align="center">
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/0.png" alt="0"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/4.png" alt="4"/>
+</div>
+
+<div align="center">
+    
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
-| 마음말 | 2024 프로보노ICT 공모전 | 데이터3 |
-| MovieIn | UMC 7th 미니 프로젝트 | 데이터3 |
-| 비밀산타 | Ne(o)rdinary 7th 해커톤 | 데이터3 |
+| [마음말](https://github.com/VLC2024/BE) | 2024 프로보노ICT 공모전 | <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>|
+| [MovieIn](https://github.com/DS-UMC-7th/UMC-7th-TEAM-AOS-BE) | UMC 7th 미니 프로젝트 | <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> |
+| [비밀산타](https://github.com/Neordinary-Hackathon-TeamO) | Ne(o)rdinary 7th 해커톤 | <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/ios/50/google-cloud-platform.png" alt="google-cloud-platform"/>|
+</div>
 
-2023
+<div align="center">
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/0.png" alt="0"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/2.png" alt="2"/>
+  <img width="30" height="30" src="https://img.icons8.com/deco-color/48/3.png" alt="3"/>
+</div>
+
+<div align="center">
+
 | NAME | DESCRIPT | STACK |
 |-----|-----|-----|
-| TOgether | UMC 5th 프로젝트 ||
-| ReviewMate | 토이 프로젝트 - 영화 리뷰 플랫폼 | 데이터3 |
-| 지구더구 | 2023 덕성여자대학교 데이터톤 수상작 | 데이터3 |
-| 덕심이 | 2023 덕성여자대학교 해커톤 | 데이터3 |
+| [TOgether](https://github.com/UMC-5th-TOgether/Together_BE) | UMC 5th 프로젝트 |<img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="30" height="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>|
+| [ReviewMate](https://github.com/yuchaemin2/ReviewMate) | 토이 프로젝트 - 영화 리뷰 플랫폼 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/>|
+| [지구더구](https://github.com/EarthDuk11/Frontend) | 2023 덕성여자대학교 데이터톤 수상작 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> |
+| [덕심이](https://github.com/2023-CodewithDuksung/2023-CodeWithDS-19) | 2023 덕성여자대학교 해커톤 | <img width="30" height="30" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/> |
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=footer)
