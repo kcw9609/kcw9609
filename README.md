@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&show_icons=true&theme=radical)
+![Knag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcw9609&include_all_commits=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcw9609&layout=donut-vertical)
 
