@@ -11,6 +11,7 @@
 - 🎓 B.S. Computer Engineering, Duksung Women's University (GPA 4.09 / 4.5)
 - 🏆 1st Author — *Journal of Digital Contents Society* (Vol. 27, No. 2)
 - 🥇 2025 한이음 ICT 공모전 **금상** (과학기술정보통신부 장관상, 전국 2위)
+- 🏆 2025 덕성여자대학교 과학기술대학 학술제 **대상**
 - 🔍 Specializes in **RAG pipelines**, **Spring Boot REST APIs**, and **AWS cloud infra**
 - 📬 kang960953@gmail.com
 
@@ -95,6 +96,30 @@
 - 🔗 [GitHub](https://github.com/AgriData-Lab)
 
 <br>
+---
+
+## 🚀 Experience
+
+- **UMC (University MakeUs Challenge) 5th, 7th — Backend Developer**  
+  *2023.09 ~ 2024.02 · 2024.12 ~ 2025.02*  
+  - 페르소나 기반 활동 기록 및 라이프 밸런스 시각화 서비스 개발  
+  - Spring Boot + MySQL 기반 REST API 및 ERD 설계  
+  - CI/CD 자동화 및 AWS 배포 경험  
+  - 커스텀 어노테이션 & Global Exception Handler 기반 예외 처리 시스템 구현  
+
+
+## 🎓 Education
+
+- **Day1Company Backend Bootcamp**  
+  *2025.05 ~ 2025.07*  
+  - Java / Spring 기반 REST API 개발
+  - DB 연동 및 GitHub
+
+- **MSIT Hanium DreamUp AWS Cloud Training**  
+  *2025.05*  
+  - AWS (IAM, VPC, EC2, RDS) 인프라 구축  
+  - EKS 기반 Kubernetes 클러스터 구성  
+  - ALB Controller 및 모니터링 환경 구축  
 
 ## 📜 Certifications
 
